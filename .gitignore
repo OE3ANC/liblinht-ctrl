@@ -1,0 +1,29 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.so.*
+
+# Compiled binaries
+example
+
+# Temporary files
+*~
+*.tmp
+*.bak
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*#
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+build/
+dist/
